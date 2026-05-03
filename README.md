@@ -10,7 +10,7 @@ All case studies are fictional and created with dummy data. No confidential comp
 ## Case Studies
 
 ### 1. Mobile Banking Limit Management
-A mobile banking feature analysis case focused on transfer limit visibility, limit increase requests, OTP verification, request tracking, and operational review.
+A mobile banking feature analysis case focused on transfer limit visibility, limit increase requests, OTP verification, request tracking, and operational review. 
 
 **Skills demonstrated:**
 - Requirement analysis
