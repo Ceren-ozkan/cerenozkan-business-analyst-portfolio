@@ -73,7 +73,6 @@ A process improvement case focused on digitalizing the credit card application j
 - SQL
 - Power BI
 - Microsoft Excel
-- Draw.io / diagrams.net
 
 ## Disclaimer
 
