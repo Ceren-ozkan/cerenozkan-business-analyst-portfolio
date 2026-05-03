@@ -4,7 +4,7 @@ This repository contains business analysis case studies, SQL analysis examples, 
 
 ## Portfolio Overview
 
-The purpose of this portfolio is to demonstrate practical business analysis skills through realistic case studies.  
+The purpose of this portfolio is to demonstrate practical business analysis skills through realistic case studies.
 All case studies are fictional and created with dummy data. No confidential company or bank data is used.
 
 ## Case Studies
